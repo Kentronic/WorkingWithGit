@@ -32,7 +32,9 @@ git restore --staged <file> -->
 <!-- git diff -->
 <!-- git log --oneline -->
 # Amending Historygit add 
+
 <!-- git commit --amend -->
 # Copying a branch
 <!-- git switch -c NAME
 # git chechout -b NAME -->
+
