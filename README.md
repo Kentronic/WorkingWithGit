@@ -21,4 +21,5 @@ git restore .
 git checkout . -->
 
 # Using .gitignore
- 
+# Global Ignore File
+<!-- git config --global core.excludesfile [file] -->
