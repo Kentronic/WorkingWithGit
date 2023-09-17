@@ -31,3 +31,5 @@ git restore --staged <file> -->
 # Difference
 <!-- git diff -->
 <!-- git log --oneline -->
+# Amending Historygit add 
+git commit -amend
