@@ -26,4 +26,4 @@ git checkout . -->
 # Clearing the cache
 <!-- git rm -r --cached . -->
 # Deleting and Renaming
-git rm index.html
+<!-- git rm index.html -->
