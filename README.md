@@ -46,7 +46,8 @@ git branch -d NAME
 git branch -b NAME -->
 
 # Git Flow
-Feature/fix branch
+<!-- Feature/fix branch
 make changes
 Merge to master
 Delete old branch
+[gitflow]: image.png -->
