@@ -32,4 +32,4 @@ git restore --staged <file> -->
 <!-- git diff -->
 <!-- git log --oneline -->
 # Amending Historygit add 
-git commit -amend
+<!-- git commit --amend -->
