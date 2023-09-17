@@ -19,3 +19,6 @@ staged -->
 <!-- git restore README.md
 git restore .
 git checkout . -->
+
+# Using .gitignore
+ 
