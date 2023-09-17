@@ -38,3 +38,5 @@ git restore --staged <file> -->
 <!-- git switch -c NAME
 # git chechout -b NAME -->
 
+# Merging
+<!-- git merge <branch> -->
