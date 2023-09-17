@@ -28,3 +28,5 @@ git checkout . -->
 # Deleting and Renaming
 <!-- git rm index.html 
 git restore --staged <file> -->
+# Difference
+<!-- git diff -->
