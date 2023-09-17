@@ -40,3 +40,13 @@ git restore --staged <file> -->
 
 # Merging
 <!-- git merge <branch> -->
+# Deleting a branch
+<!-- git branch --delete NAME
+git branch -d NAME
+git branch -b NAME -->
+
+# Git Flow
+Feature/fix branch
+make changes
+Merge to master
+Delete old branch
