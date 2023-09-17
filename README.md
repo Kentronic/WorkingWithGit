@@ -23,3 +23,5 @@ git checkout . -->
 # Using .gitignore
 # Global Ignore File
 <!-- git config --global core.excludesfile [file] -->
+# Clearing the cache
+<!-- git rm -r --cached . -->
