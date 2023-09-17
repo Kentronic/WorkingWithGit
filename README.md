@@ -25,3 +25,4 @@ git checkout . -->
 <!-- git config --global core.excludesfile [file] -->
 # Clearing the cache
 <!-- git rm -r --cached . -->
+# Deleting and Renaming
