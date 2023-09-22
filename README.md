@@ -3,7 +3,10 @@
 <!-- git add --all
 git add -A
 git add .
-git commit -m "My first commit" -->
+git commit -m "My first commit"
+git remote add myrepo <repo url>
+
+-->
 
 # Git environments
 <!-- Working env
